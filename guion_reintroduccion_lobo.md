@@ -32,7 +32,7 @@ La imagen de abajo muestra un mapa de Yellowstone y de Andalucía  oriental a la
 
 ![imagen](https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/main/imagenes/yellowstone_vs_andalucia.png)
 
-Escribe sobre el asunto tratando de responder a las preguntas anteriores. Genera un texto con extensión máxima de dos caras de A4 (unas 800 palabras). No olvides incluir referencias a los documentos (videos, artículos, libros, etc.) que hayas usado para la redacción. Por favor, súbelo al moodle (Tarea en el tema 9) en formato word o libreoffice.
+Escribe sobre el asunto tratando de responder a las preguntas anteriores. Genera un texto con extensión máxima de dos caras de A4 (unas 800 palabras). No olvides incluir referencias a los documentos (videos, artículos, libros, etc.) que hayas usado para la redacción. Es muy importante que sustentes tus afirmaciones con evidencias. Se trata de una actividad para fomentar la reflexión, no de una mera exposición de tu, por otro lado legítima, opinión sobre el asunto. Por favor, súbelo al moodle (Tarea en el tema 9) en formato word o libreoffice.
 
 
 
