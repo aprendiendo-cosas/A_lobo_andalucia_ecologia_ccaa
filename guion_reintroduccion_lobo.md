@@ -4,7 +4,7 @@
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 
-![portada]()
+![portada](https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/main/imagenes/portada.jpg)
 
 ## Objetivos 
 
@@ -22,7 +22,9 @@ Esta tarea tiene los siguientes objetivos competenciales y operacionales:
 
 ## Instrucciones
 
-Después de lo visto en clase sobre la cascada trófica de Yellowstone  (extinción y posterior reintroducción del lobo en dicho parque),  reflexiona sobre las diferencias entre cómo ocurrió este proceso en  Estados Unidos y cómo ocurrió (o podría ocurrir) en nuestra región.  ¿Crees que los ecosistemas de Andalucía responderían de igual manera que los de Yellowstone?, ¿Cuáles crees que son las diferencias  fundamentales?, ¿Consideras que habría conflictos?. En caso afirmativo,  trata de identificar algún caso de convivencia pacífica entre hombre y  lobo en Iberia.
+Después de lo visto en clase sobre la cascada trófica de Yellowstone  (extinción y posterior reintroducción del lobo en dicho parque),  reflexiona sobre las diferencias entre cómo ocurrió este proceso en  Estados Unidos y cómo ocurrió (o podría ocurrir) en nuestra región.  ¿Crees que los ecosistemas de Andalucía responderían de igual manera que los de Yellowstone?, ¿Cuáles crees que son las diferencias  fundamentales?, ¿Se produciría una "cascada trófica"?, ¿Consideras que habría conflictos?. En caso afirmativo,  trata de identificar algún caso de convivencia pacífica entre hombre y  lobo en Iberia.
+
+Nota al margen: En los últimos meses hay un debate interesante en España sobre el lobo. El gobierno nacional ha decretado que esta especie deje de ser cazable en Castilla-León, Cantabria y Asturias. 
 
 La imagen de abajo muestra un mapa de Yellowstone y de Andalucía  oriental a la misma escala. Este material puede ayudarte a reflexionar  sobre las preguntas anteriores. Mira también la presentación de clase sobre  cascadas tróficas ([aquí](https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/raw/main/presentacion/2_cascadas_troficas.pptx)).
 
