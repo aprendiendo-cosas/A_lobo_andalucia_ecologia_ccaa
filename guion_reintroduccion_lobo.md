@@ -1,4 +1,4 @@
-# Instrucciones para la realización del ejercicio denominado "Reflexión sobre las cascadas tróficas: el lobo en Andalucía"
+# Instrucciones para la realización del ejercicio denominado "Reflexión sobre redes tróficas: el lobo en Andalucía"
 
 > + **_Versión_**: 2.0.
 > + **_Asignatura (grado)_**: Ecología (CCAA)

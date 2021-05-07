@@ -2,7 +2,8 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>guion_reintroduccion_lobo</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+
+<link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
 body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit inherit; background-repeat: inherit inherit; }
@@ -66,7 +67,7 @@ div.hr:focus { cursor: none; }
 #write pre.ty-contain-cm { white-space: normal; }
 .CodeMirror-gutters { margin-right: 4px; }
 .md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; position: relative !important; background-position: inherit inherit; background-repeat: inherit inherit; }
-.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
 #write .md-fences.mock-cm { white-space: pre-wrap; }
 .md-fences.md-fences-with-lineno { padding-left: 0px; }
 #write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
@@ -137,11 +138,11 @@ code { text-align: left; }
 a.md-print-anchor { white-space: pre !important; border: none !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; text-shadow: initial !important; background-position: 0px 0px !important; background-repeat: initial initial !important; }
 .md-inline-math .MathJax_SVG .noError { display: none !important; }
 .html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
-.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
+.md-fences-math .MathJax_SVG_Display, .md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: visible; display: block !important; }
 .MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
 .MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
 .MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
-.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
 .MathJax_SVG * { transition: none; }
 .MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
 .os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
@@ -154,7 +155,8 @@ iframe { max-width: 100%; width: 100%; border: none; }
 .highlight td, .highlight tr { border: 0px; }
 mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); background-position: initial initial; background-repeat: initial initial; }
 .md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
-mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
 @media print { 
   .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
 }
@@ -162,6 +164,50 @@ mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
 .md-diagram-panel .start-state { fill: var(--node-fill); }
 .md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
 .md-require-zoom-fix foreignObject { font-size: var(--mermaid-font-zoom); }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-math .MathJax_SVG_Display { margin-top: 8px; cursor: default; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; background-position: inherit inherit; background-repeat: inherit inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) { 
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) { 
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.428571429rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ''; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ''; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left-width: 28px; border-left-style: solid; border-left-color: transparent; border-right-width: 28px; border-right-style: solid; border-right-color: transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ''; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right-width: 8px; border-right-style: solid; border-right-color: transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: '−'; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
 
 
 :root {
@@ -349,7 +395,7 @@ table {
     word-break: initial;
 }
 table tr {
-    border-top: 1px solid #dfe2e5;
+    border: 1px solid #dfe2e5;
     margin: 0;
     padding: 0;
 }
@@ -523,9 +569,9 @@ header, .context-menu, .megamenu-content, footer{
     color: #b4654d;
 }
 
-.html-for-mac .context-menu {
+/*.html-for-mac {
     --item-hover-bg-color: #E6F0FE;
-}
+}*/
 
 #md-notification .btn {
     border: 0;
@@ -533,6 +579,7 @@ header, .context-menu, .megamenu-content, footer{
 
 .dropdown-menu .divider {
     border-color: #e5e5e5;
+    opacity: 0.4;
 }
 
 .ty-preferences .window-content {
@@ -544,10 +591,16 @@ header, .context-menu, .megamenu-content, footer{
     background: #999;
 }
 
- :root {--mermaid-font-zoom:1em ;} 
-</style>
+.menu-item-container a.menu-style-btn {
+    background-color: #f5f8fa;
+    background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
+}
+
+
+ :root {--mermaid-font-zoom:1em ;}  @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}
+</style><title>guion_reintroduccion_lobo</title>
 </head>
-<body class='typora-export'>
-<div id='write'  class=''><h1><a name="instrucciones-para-la-realización-del-ejercicio-denominado-reflexión-sobre-las-cascadas-tróficas-el-lobo-en-andalucía" class="md-header-anchor"></a><span>Instrucciones para la realización del ejercicio denominado &quot;Reflexión sobre las cascadas tróficas: el lobo en Andalucía&quot;</span></h1><blockquote><ul><li><strong><em><span>Versión</span></em></strong><span>: 2.0.</span></li><li><strong><em><span>Asignatura (grado)</span></em></strong><span>: Ecología (CCAA)</span></li><li><strong><em><span>Autor</span></em></strong><span>: Curro Bonet-García (fjbonet@uco.es)</span></li></ul></blockquote><p><img src="https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/main/imagenes/portada.jpg" referrerpolicy="no-referrer" alt="portada"></p><h2><a name="objetivos" class="md-header-anchor"></a><span>Objetivos </span></h2><p><span>Esta tarea tiene los siguientes objetivos competenciales y operacionales:</span></p><ul><li><p><span>Disciplinares: Conocimientos que se pretenden adquirir y que están relacionados con la ecología.</span></p><ul><li><span>Afianzar los conocimientos adquiridos sobre depredación.</span></li><li><span>Adquirir conciencia de la importancia que tiene la depredación como elemento fundamental en la dinámica de los ecosistemas.</span></li><li><span>Reflexionar sobre la importancia que tiene la robustez de las redes tróficas en el mantenimiento de ecosistemas &quot;estables&quot;.</span></li><li><span>Inferir la importancia de la intensidad del uso del suelo por parte del ser humano en el funcionamiento de los ecosistemas.</span></li></ul></li><li><p><span>Instrumentales: Están relacionados con la adquisición de competencias generales.</span></p><ul><li><span>Mejorar las habilidades de redacción de los estudiantes incorporando razonamientos basados en evidencias y distinguiendo éstos de las opiniones. </span></li></ul></li></ul><h2><a name="instrucciones" class="md-header-anchor"></a><span>Instrucciones</span></h2><p><span>Después de lo visto en clase sobre la cascada trófica de Yellowstone  (extinción y posterior reintroducción del lobo en dicho parque),  reflexiona sobre las diferencias entre cómo ocurrió este proceso en  Estados Unidos y cómo ocurrió (o podría ocurrir) en nuestra región.  ¿Crees que los ecosistemas de Andalucía responderían de igual manera que los de Yellowstone?, ¿Cuáles crees que son las diferencias  fundamentales?, ¿Se produciría una &quot;cascada trófica&quot;?, ¿Consideras que habría conflictos?. En caso afirmativo,  trata de identificar algún caso de convivencia pacífica entre hombre y  lobo en Iberia.</span></p><p><span>Nota al margen: En los últimos meses hay un debate interesante en España sobre el lobo. El gobierno nacional ha decretado que esta especie deje de ser cazable en Castilla-León, Cantabria y Asturias. </span></p><p><span>La imagen de abajo muestra un mapa de Yellowstone y de Andalucía  oriental a la misma escala. Este material puede ayudarte a reflexionar  sobre las preguntas anteriores. Mira también la presentación de clase sobre  cascadas tróficas (</span><a href='https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/raw/main/presentacion/2_cascadas_troficas.pptx'><span>aquí</span></a><span>).</span></p><p>&nbsp;</p><p><img src="https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/main/imagenes/yellowstone_vs_andalucia.png" referrerpolicy="no-referrer" alt="imagen"></p><p><span>Escribe sobre el asunto tratando de responder a las preguntas anteriores. Genera un texto con extensión máxima de dos caras de A4 (unas 800 palabras). No olvides incluir referencias a los documentos (videos, artículos, libros, etc.) que hayas usado para la redacción. Es muy importante que sustentes tus afirmaciones con evidencias. Se trata de una actividad para fomentar la reflexión, no de una mera exposición de tu, por otro lado legítima, opinión sobre el asunto. Por favor, súbelo al moodle (Tarea en el tema 9) en formato word o libreoffice.</span></p><p>&nbsp;</p><h2><a name="criterios-de-evaluación" class="md-header-anchor"></a><span>Criterios de evaluación</span></h2><p><span>En el moodle hay una rúbrica (pincha </span><a href='https://es.wikipedia.org/wiki/R%C3%BAbrica_(docencia)'><span>aquí</span></a><span> si no sabes lo que es una rúbrica) que describe de manera detallada los criterios de calificación. También puedes verlos en la siguiente tabla:</span></p><p>&nbsp;</p><p>&nbsp;</p><figure><table><thead><tr><th><span>Criterio de evaluación</span></th><th><span>0 puntos</span></th><th><span>1 punto</span></th><th><span>2 puntos</span></th><th><span>3 puntos</span></th><th><span>4 puntos</span></th><th><span>5 puntos</span></th></tr></thead><tbody><tr><td><strong><span>Contenido</span></strong><span>: El texto ha de recoger los conceptos indicados en las instrucciones.</span></td><td><span>No entiendo nada</span></td><td><span>Hay algún concepto en el texto, pero no está bien descrito..</span></td><td><span>Has plasmado en el texto alguna de las ideas de los documentos, pero no te acercas a la respuesta.</span></td><td><span>Están los ingredientes y algo de reflexión acertada sobre la pregunta. Buen trabajo.</span></td><td><span>Bien hilado el contenido. Has identificado muy bien el problema al que me refería en el enunciado.</span></td><td><span>Muy bien argumentado. Has justificado muy bien tu respuesta. Tu reflexión está a la altura de un experto :)</span></td></tr><tr><td><strong><span>Redacción</span></strong><span>: La redacción debe de ser fluida. Frases bien construidas y ortografía aceptable.</span></td><td><span>El texto no se entiende</span></td><td><span>He tenido que leerlo varias veces para poder interpretar lo que querías decir. Muchos errores gramaticales y ortográficos</span></td><td><span>La redacción es mejorable, pero se entiende. Muchos fallos gramaticales y ortográficos</span></td><td><span>Buena redacción, aunque algo denso de leer. Sin fallos destacables</span></td><td><span>Muy buena redacción. El texto se lee fluidamente a la primera</span></td><td><span>Excelente redacción. Buen ritmo en el texto y nítida expresión de ideas. Avísame cuando escribas tu primer libro ;)</span></td></tr><tr><td><strong><span>Mejoras</span></strong><span>: Aquí se valorarán las mejoras que hayas incluido más allá de lo explícitamente indicado en las instrucciones.</span></td><td><span>No mencionas ninguna referencia.</span></td><td><span>Has incluido únicamente referencias a los documentos indicados.</span></td><td><span>Has incluido referencias científicas diferentes a las propuestas por el profesor.</span></td><td><span>Además, has incorporado referencias de webs, videos o artículos periodísticos.</span></td><td><span>Has creado un esquema o diagrama que resume tus reflexiones.</span></td><td><span>Combinación de las tres categorías anteriores.</span></td></tr></tbody></table></figure><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><span>  </span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div>
+<body class='typora-export'><div class='typora-export-content'>
+<div id='write'  class=''><h1 id='instrucciones-para-la-realización-del-ejercicio-denominado-reflexión-sobre-redes-tróficas-el-lobo-en-andalucía'><span>Instrucciones para la realización del ejercicio denominado &quot;Reflexión sobre redes tróficas: el lobo en Andalucía&quot;</span></h1><blockquote><ul><li><strong><em><span>Versión</span></em></strong><span>: 2.0.</span></li><li><strong><em><span>Asignatura (grado)</span></em></strong><span>: Ecología (CCAA)</span></li><li><strong><em><span>Autor</span></em></strong><span>: Curro Bonet-García (fjbonet@uco.es)</span></li></ul></blockquote><p><img src="https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/main/imagenes/portada.jpg" referrerpolicy="no-referrer" alt="portada"></p><h2 id='objetivos'><span>Objetivos </span></h2><p><span>Esta tarea tiene los siguientes objetivos competenciales y operacionales:</span></p><ul><li><p><span>Disciplinares: Conocimientos que se pretenden adquirir y que están relacionados con la ecología.</span></p><ul><li><span>Afianzar los conocimientos adquiridos sobre depredación.</span></li><li><span>Adquirir conciencia de la importancia que tiene la depredación como elemento fundamental en la dinámica de los ecosistemas.</span></li><li><span>Reflexionar sobre la importancia que tiene la robustez de las redes tróficas en el mantenimiento de ecosistemas &quot;estables&quot;.</span></li><li><span>Inferir la importancia de la intensidad del uso del suelo por parte del ser humano en el funcionamiento de los ecosistemas.</span></li></ul></li><li><p><span>Instrumentales: Están relacionados con la adquisición de competencias generales.</span></p><ul><li><span>Mejorar las habilidades de redacción de los estudiantes incorporando razonamientos basados en evidencias y distinguiendo éstos de las opiniones. </span></li></ul></li></ul><h2 id='instrucciones'><span>Instrucciones</span></h2><p><span>Después de lo visto en clase sobre la cascada trófica de Yellowstone  (extinción y posterior reintroducción del lobo en dicho parque),  reflexiona sobre las diferencias entre cómo ocurrió este proceso en  Estados Unidos y cómo ocurrió (o podría ocurrir) en nuestra región.  ¿Crees que los ecosistemas de Andalucía responderían de igual manera que los de Yellowstone?, ¿Cuáles crees que son las diferencias  fundamentales?, ¿Se produciría una &quot;cascada trófica&quot;?, ¿Consideras que habría conflictos?. En caso afirmativo,  trata de identificar algún caso de convivencia pacífica entre hombre y  lobo en Iberia.</span></p><p><span>Nota al margen: En los últimos meses hay un debate interesante en España sobre el lobo. El gobierno nacional ha decretado que esta especie deje de ser cazable en Castilla-León, Cantabria y Asturias. </span></p><p><span>La imagen de abajo muestra un mapa de Yellowstone y de Andalucía  oriental a la misma escala. Este material puede ayudarte a reflexionar  sobre las preguntas anteriores. Mira también la presentación de clase sobre  cascadas tróficas (</span><a href='https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/raw/main/presentacion/2_cascadas_troficas.pptx'><span>aquí</span></a><span>).</span></p><p>&nbsp;</p><p><img src="https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/main/imagenes/yellowstone_vs_andalucia.png" referrerpolicy="no-referrer" alt="imagen"></p><p><span>Escribe sobre el asunto tratando de responder a las preguntas anteriores. Genera un texto con extensión máxima de dos caras de A4 (unas 800 palabras). No olvides incluir referencias a los documentos (videos, artículos, libros, etc.) que hayas usado para la redacción. Es muy importante que sustentes tus afirmaciones con evidencias. Se trata de una actividad para fomentar la reflexión, no de una mera exposición de tu, por otro lado legítima, opinión sobre el asunto. Por favor, súbelo al moodle (Tarea en el tema 9) en formato word o libreoffice.</span></p><p>&nbsp;</p><h2 id='criterios-de-evaluación'><span>Criterios de evaluación</span></h2><p><span>En el moodle hay una rúbrica (pincha </span><a href='https://es.wikipedia.org/wiki/R%C3%BAbrica_(docencia)'><span>aquí</span></a><span> si no sabes lo que es una rúbrica) que describe de manera detallada los criterios de calificación. También puedes verlos en la siguiente tabla:</span></p><p>&nbsp;</p><p>&nbsp;</p><figure><table><thead><tr><th><span>Criterio de evaluación</span></th><th><span>0 puntos</span></th><th><span>1 punto</span></th><th><span>2 puntos</span></th><th><span>3 puntos</span></th><th><span>4 puntos</span></th><th><span>5 puntos</span></th></tr></thead><tbody><tr><td><strong><span>Contenido</span></strong><span>: El texto ha de recoger los conceptos indicados en las instrucciones.</span></td><td><span>No entiendo nada</span></td><td><span>Hay algún concepto en el texto, pero no está bien descrito..</span></td><td><span>Has plasmado en el texto alguna de las ideas de los documentos, pero no te acercas a la respuesta.</span></td><td><span>Están los ingredientes y algo de reflexión acertada sobre la pregunta. Buen trabajo.</span></td><td><span>Bien hilado el contenido. Has identificado muy bien el problema al que me refería en el enunciado.</span></td><td><span>Muy bien argumentado. Has justificado muy bien tu respuesta. Tu reflexión está a la altura de un experto :)</span></td></tr><tr><td><strong><span>Redacción</span></strong><span>: La redacción debe de ser fluida. Frases bien construidas y ortografía aceptable.</span></td><td><span>El texto no se entiende</span></td><td><span>He tenido que leerlo varias veces para poder interpretar lo que querías decir. Muchos errores gramaticales y ortográficos</span></td><td><span>La redacción es mejorable, pero se entiende. Muchos fallos gramaticales y ortográficos</span></td><td><span>Buena redacción, aunque algo denso de leer. Sin fallos destacables</span></td><td><span>Muy buena redacción. El texto se lee fluidamente a la primera</span></td><td><span>Excelente redacción. Buen ritmo en el texto y nítida expresión de ideas. Avísame cuando escribas tu primer libro ;)</span></td></tr><tr><td><strong><span>Mejoras</span></strong><span>: Aquí se valorarán las mejoras que hayas incluido más allá de lo explícitamente indicado en las instrucciones.</span></td><td><span>No mencionas ninguna referencia.</span></td><td><span>Has incluido únicamente referencias a los documentos indicados.</span></td><td><span>Has incluido referencias científicas diferentes a las propuestas por el profesor.</span></td><td><span>Además, has incorporado referencias de webs, videos o artículos periodísticos.</span></td><td><span>Has creado un esquema o diagrama que resume tus reflexiones.</span></td><td><span>Combinación de las tres categorías anteriores.</span></td></tr></tbody></table></figure><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><span>  </span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div></div>
 </body>
 </html>
