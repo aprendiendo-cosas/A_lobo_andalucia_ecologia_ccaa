@@ -4,7 +4,7 @@
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 
-![portada](https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/main/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/2020-2021/imagenes/portada.jpg)
 
 ## Objetivos 
 
@@ -26,11 +26,11 @@ Después de lo visto en clase sobre la cascada trófica de Yellowstone  (extinci
 
 Nota al margen: En los últimos meses hay un debate interesante en España sobre el lobo. El gobierno nacional ha decretado que esta especie deje de ser cazable en Castilla-León, Cantabria y Asturias. 
 
-La imagen de abajo muestra un mapa de Yellowstone y de Andalucía  oriental a la misma escala. Este material puede ayudarte a reflexionar  sobre las preguntas anteriores. Mira también la presentación de clase sobre  cascadas tróficas ([aquí](https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/raw/main/presentacion/2_cascadas_troficas.pptx)).
+La imagen de abajo muestra un mapa de Yellowstone y de Andalucía  oriental a la misma escala. Este material puede ayudarte a reflexionar  sobre las preguntas anteriores. Mira también la presentación de clase sobre  cascadas tróficas ([aquí](https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/raw/2020-2021/presentacion/2_cascadas_troficas.pptx)).
 
 
 
-![imagen](https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/main/imagenes/yellowstone_vs_andalucia.png)
+![imagen](https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/2020-2021/imagenes/yellowstone_vs_andalucia.png)
 
 Escribe sobre el asunto tratando de responder a las preguntas anteriores. Genera un texto con extensión máxima de dos caras de A4 (unas 800 palabras). No olvides incluir referencias a los documentos (videos, artículos, libros, etc.) que hayas usado para la redacción. Es muy importante que sustentes tus afirmaciones con evidencias. Se trata de una actividad para fomentar la reflexión, no de una mera exposición de tu, por otro lado legítima, opinión sobre el asunto. Por favor, súbelo al moodle (Tarea en el tema 9) en formato word o libreoffice.
 
@@ -53,7 +53,8 @@ En el moodle hay una rúbrica (pincha [aquí](https://es.wikipedia.org/wiki/R%C3
 
 
 
-
+- cambiar rúbrica para que los artículos periodísticos estén antes en el criterio. Quizás darle menos peso a este criterio.
+- cambiar redacción para que sea independiente del tema de cascadas tróficas. 
 
 
 
