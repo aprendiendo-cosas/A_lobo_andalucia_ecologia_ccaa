@@ -1,66 +1,54 @@
 # Instrucciones para la realización del ejercicio denominado "Reflexión sobre redes tróficas: el lobo en Andalucía"
 
-> + **_Versión_**: 2.0.
+> + **_Versión_**: 2021-2022
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 
-![portada](https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/2020-2021/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/A_lobo_andalucia_ecologia_ccaa/raw/2021-2022/imagenes/portada.jpg)
 
 ## Objetivos 
 
 Esta tarea tiene los siguientes objetivos competenciales y operacionales:
 
 + Disciplinares: Conocimientos que se pretenden adquirir y que están relacionados con la ecología.
-  + Afianzar los conocimientos adquiridos sobre depredación.
-  + Adquirir conciencia de la importancia que tiene la depredación como elemento fundamental en la dinámica de los ecosistemas.
+  + Afianzar los conocimientos adquiridos sobre las interacciones que ocurren en las comunidades ecológicas.
   + Reflexionar sobre la importancia que tiene la robustez de las redes tróficas en el mantenimiento de ecosistemas "estables".
   + Inferir la importancia de la intensidad del uso del suelo por parte del ser humano en el funcionamiento de los ecosistemas.
-  
 + Instrumentales: Están relacionados con la adquisición de competencias generales.
 
   + Mejorar las habilidades de redacción de los estudiantes incorporando razonamientos basados en evidencias y distinguiendo éstos de las opiniones. 
 
+
+
 ## Instrucciones
 
-Después de lo visto en clase sobre la cascada trófica de Yellowstone  (extinción y posterior reintroducción del lobo en dicho parque),  reflexiona sobre las diferencias entre cómo ocurrió este proceso en  Estados Unidos y cómo ocurrió (o podría ocurrir) en nuestra región.  ¿Crees que los ecosistemas de Andalucía responderían de igual manera que los de Yellowstone?, ¿Cuáles crees que son las diferencias  fundamentales?, ¿Se produciría una "cascada trófica"?, ¿Consideras que habría conflictos?. En caso afirmativo,  trata de identificar algún caso de convivencia pacífica entre hombre y  lobo en Iberia.
+Imagina que te encargan un estudio que pretende analizar la viabilidad de la reintroducción del lobo en Andalucía oriental. Los responsables de la gestión territorial de esa zona están pensando en la posibilidad de reintroducir esta especie. Deberás reflexionar sobre el asunto y, tomando como referencia lo ocurrido en Yellowstone con la reintroducción del lobo ([aquí](https://github.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/raw/2021-2022/descargables/cascadas_troficas.pptx) tienes más información sobre este asunto), trata de dictaminar si lo ves adecuado o no.
 
-Nota al margen: En los últimos meses hay un debate interesante en España sobre el lobo. El gobierno nacional ha decretado que esta especie deje de ser cazable en Castilla-León, Cantabria y Asturias. 
+Para emitir tu diagnóstico técnico (que no tu opinión como ciudadano/a), debes de describir las relaciones ecológicas que se establecerían o que se modificarían en la zona de estudio si se reintrodujera el lobo. Por ejemplo: "la reintroducción del lobo provocaría una relación de esta especie con el ganado. Sería una relación de depredación. Esta relación generaría a su vez...". Trata de identificar varias relaciones ecológicas de nueva creación o modificadas tras la introducción del lobo.
 
-La imagen de abajo muestra un mapa de Yellowstone y de Andalucía  oriental a la misma escala. Este material puede ayudarte a reflexionar  sobre las preguntas anteriores. Mira también la presentación de clase sobre  cascadas tróficas ([aquí](https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/raw/2020-2021/presentacion/2_cascadas_troficas.pptx)).
+Una vez hecho esto, trata de comparar lo que crees que ocurriría en Andalucía con lo que ocurrió en Yellowstone .¿Crees que los ecosistemas de Andalucía responderían de igual manera que los de Yellowstone?, ¿Cuáles crees que son las diferencias  fundamentales?, ¿Se produciría una "cascada trófica"?, ¿Consideras que habría conflictos?. 
+
+La imagen de abajo muestra un mapa de Yellowstone y de Andalucía  oriental a la misma escala. Esta imagen puede ayudarte a reflexionar  sobre las preguntas anteriores. 
 
 
 
-![imagen](https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/2020-2021/imagenes/yellowstone_vs_andalucia.png)
+![imagen](https://github.com/aprendiendo-cosas/A_lobo_andalucia_ecologia_ccaa/raw/2021-2022/imagenes/yellowstone_vs_andalucia.png)
 
-Escribe sobre el asunto tratando de responder a las preguntas anteriores. Genera un texto con extensión máxima de dos caras de A4 (unas 800 palabras). No olvides incluir referencias a los documentos (videos, artículos, libros, etc.) que hayas usado para la redacción. Es muy importante que sustentes tus afirmaciones con evidencias. Se trata de una actividad para fomentar la reflexión, no de una mera exposición de tu, por otro lado legítima, opinión sobre el asunto. Por favor, súbelo al moodle (Tarea en el tema 9) en formato word o libreoffice.
+Escribe el resultado de tus pensamientos en un texto con extensión máxima de dos caras de A4 (unas 800 palabras).  Es muy importante que sustentes tus afirmaciones con evidencias. Se trata de una actividad para fomentar la reflexión, no de una mera exposición de tu, por otro lado legítima, opinión sobre el asunto. Por favor, súbelo [aquí](https://www.turnitin.com/t_submit.asp?r=15.22801812729&svr=37&lang=es&aid=120034063) en formato word o libreoffice.
 
 
 
 ## Criterios de evaluación
 
-En el moodle hay una rúbrica (pincha [aquí](https://es.wikipedia.org/wiki/R%C3%BAbrica_(docencia)) si no sabes lo que es una rúbrica) que describe de manera detallada los criterios de calificación. También puedes verlos en la siguiente tabla:
+La siguiente tabla muestra los criterios de evaluación de esta tarea:
 
 
 
-
-
-
-| Criterio de evaluación                                       | 0 puntos                         | 1 punto                                                      | 2 puntos                                                     | 3 puntos                                                     | 4 puntos                                                     | 5 puntos                                                     |
-| ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Contenido**: El texto ha de recoger los conceptos indicados en las instrucciones. | No entiendo nada                 | Hay algún concepto en el texto, pero no está bien descrito.. | Has plasmado en el texto alguna de las ideas de los documentos, pero no te acercas a la respuesta. | Están los ingredientes y algo de reflexión acertada sobre la pregunta. Buen trabajo. | Bien hilado el contenido. Has identificado muy bien el problema al que me refería en el enunciado. | Muy bien argumentado. Has justificado muy bien tu respuesta. Tu reflexión está a la altura de un experto :) |
-| **Redacción**: La redacción debe de ser fluida. Frases bien construidas y ortografía aceptable. | El texto no se entiende          | He tenido que leerlo varias veces para poder interpretar lo que querías decir. Muchos errores gramaticales y ortográficos | La redacción es mejorable, pero se entiende. Muchos fallos gramaticales y ortográficos | Buena redacción, aunque algo denso de leer. Sin fallos destacables | Muy buena redacción. El texto se lee fluidamente a la primera | Excelente redacción. Buen ritmo en el texto y nítida expresión de ideas. Avísame cuando escribas tu primer libro ;) |
-| **Mejoras**: Aquí se valorarán las mejoras que hayas incluido más allá de lo explícitamente indicado en las instrucciones. | No mencionas ninguna referencia. | Has incluido únicamente referencias a los documentos indicados. | Has incluido referencias científicas diferentes a las propuestas por el profesor. | Además, has incorporado referencias de webs, videos o artículos periodísticos. | Has creado un esquema o diagrama que resume tus reflexiones. | Combinación de las tres categorías anteriores.               |
-
-
-
-- cambiar rúbrica para que los artículos periodísticos estén antes en el criterio. Quizás darle menos peso a este criterio.
-- cambiar redacción para que sea independiente del tema de cascadas tróficas. 
-
-
-
-
-
-  
+|                                                              | No entrega                           | Insuficiente                                    | Aceptable                                                    | Bien                                                         | Buen trabajo                                                 | Excelente                                                    |
+| ------------------------------------------------------------ | ------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Relaciones. Se evalua si has descrito un número razonable de relaciones ecológicas que se verían modificadas con la reintroducción del lobo. | No entrega nada o es incomprensible. | Tu respuesta no tiene ningún sentido ecológico. | Has mencionado algunas relaciones, pero te faltan muchas de las relevantes. | Has incorporado casi todas las relaciones clave. Pero no están adecuadamente descritas. | Además de presentar un número aceptable de relaciones, las has descrito adecuadamente según se indicaba en el ejercicio. | Además de lo anterior, incorporas ideas no explícitamente mencionados en las instrucciones. |
+| Cascada trófica. Se evalua si has contestado de manera razonada a la pregunta de si en Andalucía se produciría un efecto parecido al ocurrido en Yellowstone tras la reintroducción del lobo. | No entrega nada o es incomprensible. | Tu respuesta no tiene ningún sentido ecológico. | Has aportado una respuesta pobremente justificada. Tus argumentos no se sostienen. | Además de responder de manera lógica, has sustentado tus argumentos con conceptos ecológicos. | Has conectado la pregunta con otros conceptos que hemos visto en la asignatura. Muestras gran capacidad de transferir conocimiento de un ámbito a otro. | Además de lo anterior, incorporas conceptos no explícitamente mencionados en las instrucciones. |
+| Legibilidad. hace referencia a lo bien escrito que está el texto y a su legibilidad | No entrega nada o es incomprensible. | Apenas entiendo lo que has escrito              | He tenido que reinterpretar casi cada frase para entenderlo  | Se entiende bien todo, pero el texto no es fluido            | Muy buena redacción. La lectura fluye fácilmente, cual novela. | Impecable estilo de escritura.                               |
 
 
 
