@@ -14,6 +14,7 @@ Esta tarea tiene los siguientes objetivos disciplinares e instrumentales:
   + Afianzar los conocimientos adquiridos sobre las interacciones que ocurren en las comunidades ecológicas.
   + Reflexionar sobre la importancia que tiene la robustez de las redes tróficas en el mantenimiento de ecosistemas "estables".
   + Inferir la importancia de la intensidad del uso del suelo por parte del ser humano en el funcionamiento de los ecosistemas.
+  + Reflexionar sobre el concepto de "rewilding" y aportar críticas constructivas al mismo.
 + Instrumentales: Están relacionados con la adquisición de competencias generales.
 
   + Mejorar las habilidades de redacción de los estudiantes incorporando razonamientos basados en evidencias y distinguiendo éstos de las opiniones. 
@@ -22,9 +23,9 @@ Esta tarea tiene los siguientes objetivos disciplinares e instrumentales:
 
 ## Instrucciones
 
-Imagina que te encargan un estudio que pretende analizar la viabilidad de la reintroducción del lobo en Andalucía oriental. Los responsables de la gestión territorial de esa zona están pensando en la posibilidad de reintroducir esta especie. Deberás reflexionar sobre el asunto y, tomando como referencia lo ocurrido en Yellowstone con la reintroducción del lobo ([aquí](https://github.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/raw/2021-2022/descargables/cascadas_troficas.pptx) tienes más información sobre este asunto), trata de dictaminar si lo ves adecuado o no.
+Imagina que te encargan un estudio que pretende analizar la viabilidad de la reintroducción del lobo en Andalucía oriental. Los responsables de la gestión territorial de esa zona están pensando en la posibilidad de reintroducir esta especie. Deberás reflexionar sobre el asunto y, tomando como referencia lo ocurrido en Yellowstone con la reintroducción del lobo ([aquí](https://github.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/raw/2021-2022/descargables/cascadas_troficas.pptx) tienes más información sobre este asunto), trata de dictaminar si lo ves adecuado o no. La reintroducción de especies de fauna (depredadores o herbívoros) forma parte de una corriente conservacionista relativamente reciente denominada "rewilding" (reasilvestramiento, en castellano). Puedes leer los detalles en [este](https://sci-hub.hkvisa.net/10.1126/science.aav5570) artículo científico. Además, este artículo periodístico y [este](https://www.soberaniaalimentaria.info/numeros-publicados/70-numero-35/667-el-debate-sobre-resilvestrar-rewilding) otro procedente de una revista ecologista, te darán hilos de los que tirar. 
 
-Para emitir tu diagnóstico técnico (que no tu opinión como ciudadano/a), debes de describir las relaciones ecológicas que se establecerían o que se modificarían en la zona de estudio si se reintrodujera el lobo. Por ejemplo: "la reintroducción del lobo provocaría una relación de esta especie con el ganado. Sería una relación de depredación. Esta relación generaría a su vez...". Trata de identificar varias relaciones ecológicas de nueva creación o modificadas tras la introducción del lobo.
+Para emitir tu diagnóstico técnico (que no tu opinión como ciudadano/a), debes de describir las relaciones ecológicas que se establecerían o que se modificarían en la zona de estudio si se reintrodujera el lobo. Por ejemplo: "la reintroducción del lobo provocaría una relación de esta especie con el ganado. Sería una relación de depredación. Esta relación generaría a su vez...". Trata de identificar varias relaciones ecológicas de nueva creación o modificadas tras la introducción del lobo. Ten en cuenta que se crearán nuevas relaciones ecológicas y también otras más "sociales".
 
 Una vez hecho esto, trata de comparar lo que crees que ocurriría en Andalucía con lo que ocurrió en Yellowstone .¿Crees que los ecosistemas de Andalucía responderían de igual manera que los de Yellowstone?, ¿Cuáles crees que son las diferencias  fundamentales?, ¿Se produciría una "cascada trófica"?, ¿Consideras que habría conflictos?. 
 
@@ -33,6 +34,12 @@ La imagen de abajo muestra un mapa de Yellowstone y de Andalucía  oriental a la
 
 
 ![imagen](https://github.com/aprendiendo-cosas/A_lobo_andalucia_ecologia_ccaa/raw/2021-2022/imagenes/yellowstone_vs_andalucia.png)
+
+Resumiendo, tienes que hacer lo siguiente:
+
+- Describir las nuevas relaciones que crees que se generarían al reintroducir el lobo en el sudeste de Andalucía. Ten en cuenta las ideas que hemos visto en clase y también el concepto de rewilding descrito más arriba.
+- Comparar la situación que ocurrió en Yellowstone con lo que podría ocurrir aquí de reintroducirse el lobo. 
+- Concluir si consideras que la reintroducción del lobo es adecuada o no y en qué condiciones. Es decir, propón una situación en la que la reintroducción pudiera ser favorable para la sociedad. 
 
 Escribe el resultado de tus pensamientos en un texto con extensión máxima de dos caras de A4 (unas 800 palabras).  Es muy importante que sustentes tus afirmaciones con evidencias. Se trata de una actividad para fomentar la reflexión, no de una mera exposición de tu, por otro lado legítima, opinión sobre el asunto. Por favor, súbelo [aquí](https://www.turnitin.com/t_submit.asp?r=15.22801812729&svr=37&lang=es&aid=120034063) en formato word o libreoffice.
 
