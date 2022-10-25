@@ -8,7 +8,7 @@
 
 ## Objetivos 
 
-Esta tarea tiene los siguientes objetivos competenciales y operacionales:
+Esta tarea tiene los siguientes objetivos disciplinares e instrumentales:
 
 + Disciplinares: Conocimientos que se pretenden adquirir y que están relacionados con la ecología.
   + Afianzar los conocimientos adquiridos sobre las interacciones que ocurren en las comunidades ecológicas.
